@@ -27,6 +27,5 @@ Besides coding, you’ll often find me **playing games with my friends** 😁
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![Asad's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadsaves&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
